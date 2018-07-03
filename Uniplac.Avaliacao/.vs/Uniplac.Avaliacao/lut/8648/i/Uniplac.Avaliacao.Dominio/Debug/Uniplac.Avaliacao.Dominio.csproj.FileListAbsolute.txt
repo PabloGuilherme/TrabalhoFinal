@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Dominio\Debug\Uniplac.Avaliacao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Dominio\Debug\Uniplac.Avaliacao.Dominio.csproj.CopyComplete
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Dominio\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Dominio\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Dominio\Debug\Uniplac.Avaliacao.Dominio.csprojResolveAssemblyReference.cache

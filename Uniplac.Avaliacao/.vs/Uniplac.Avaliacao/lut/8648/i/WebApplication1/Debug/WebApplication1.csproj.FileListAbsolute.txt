@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\WebApplication1\bin\ApplicationInsights.config
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\WebApplication1\bin\WebApplication1.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\WebApplication1\bin\WebApplication1.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\WebApplication1\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\WebApplication1\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\WebApplication1\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\WebApplication1\Debug\WebApplication1.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\WebApplication1\Debug\WebApplication1.pdb

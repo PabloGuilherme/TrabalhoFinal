@@ -1,0 +1,5 @@
+Um pequeno empresario está montando um hotel, e ele precisa de um sistema que cadastre seus funcionários, quartos e clientes.  
+Ele gostaria de poder adicionar, cadastrar, editar, buscar e excluir clientes, funcionários e quartos. 
+Para o cadastro de clientes ele gostaria de saber o Nome, CPF, Data de nascimento. 
+Para o cadastro de funcionários ele gostaria de poder adicionar, nome, salario, data de nascimento, CPF e cargo e por fim poder adicionar um cliente para o mesmo. 
+Para o cadastro de quartos ele gostaria de poder adicionar um nome para o quarto, o valor.

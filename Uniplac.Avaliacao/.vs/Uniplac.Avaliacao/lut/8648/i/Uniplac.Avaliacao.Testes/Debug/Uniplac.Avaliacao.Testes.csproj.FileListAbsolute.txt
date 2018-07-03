@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Testes\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Testes\bin\Debug\Uniplac.Avaliacao.Testes.dll.config
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Testes\bin\Debug\Uniplac.Avaliacao.Testes.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\b\Uniplac.Avaliacao.Testes\bin\Debug\Uniplac.Avaliacao.Testes.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Testes\Debug\Uniplac.Avaliacao.Testes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Testes\Debug\Uniplac.Avaliacao.Testes.csproj.CopyComplete
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Testes\Debug\Uniplac.Avaliacao.Testes.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Testes\Debug\Uniplac.Avaliacao.Testes.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\.vs\Uniplac.Avaliacao\lut\0\i\Uniplac.Avaliacao.Testes\Debug\Uniplac.Avaliacao.Testes.csprojResolveAssemblyReference.cache

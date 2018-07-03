@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Infra.Dados.dll.config
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Infra.Dados.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Infra.Dados.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.csproj.CopyComplete
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.dll
+C:\Users\User\source\repos\Uniplac.Avaliacao\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.pdb
