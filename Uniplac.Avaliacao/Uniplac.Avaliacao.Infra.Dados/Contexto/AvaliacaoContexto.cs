@@ -23,14 +23,14 @@ namespace Uniplac.Avaliacao.Infra.Dados.Contexto
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<Funcionario>()
-            //   .ToTable("TBFuncionario");
+            modelBuilder.Entity<Funcionario>()
+               .ToTable("TBFuncionario");
 
-            //modelBuilder.Entity<Cliente>()
-            //   .ToTable("TBCliente");
+            modelBuilder.Entity<Cliente>()
+               .ToTable("TBCliente");
 
-            //modelBuilder.Entity<Quarto>()
-            //   .ToTable("TBQuarto");
+            modelBuilder.Entity<Quarto>()
+               .ToTable("TBQuarto");
         }
     }
 
